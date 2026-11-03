@@ -1,0 +1,1 @@
+GSD Equipment Borrowing and Return Tracking System is a web-based system designed to manage and monitor the borrowing and returning of equipment. It helps organize equipment records, track borrowed items, monitor return dates, and maintain accurate transaction records for efficient equipment management.
